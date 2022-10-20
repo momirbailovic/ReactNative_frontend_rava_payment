@@ -11,7 +11,7 @@
   "dependencies": {
     "@ptomasroos/react-native-multi-slider": "^1.0.0",
     "base-64": "^0.1.0",
-    "expo": "^31.0.2",
+    "expo": "^46.0.16",
     "fuse.js": "^3.3.0",
     "libphonenumber-js": "^1.6.9",
     "lodash": "^4.17.11",
